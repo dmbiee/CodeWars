@@ -10,3 +10,4 @@ def DNA_strand(dna):
         if letter in key:
             result += key[letter]
     return result
+print(123123)
